@@ -1,0 +1,6 @@
+fruit = max("apple", "banana", "cherry","melon","watermelon","papaya")
+print(fruit)
+numbers = max(100,200,35,98)
+print(numbers)
+numbers = min(100,200,35,98)
+print(numbers)

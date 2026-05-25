@@ -1,0 +1,5 @@
+#f=open("c.txt")
+f=open("c.txt","w")
+f.write("two wrds now")
+f=open("c.txt")
+print(f.read())
